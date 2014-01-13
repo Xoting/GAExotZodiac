@@ -5,6 +5,5 @@
 bin
 eggs
 develop-eggs
-parts
 .mr.developer.cfg
 .installed.cfg
